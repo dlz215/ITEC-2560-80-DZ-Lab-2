@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+    font-family: "Palatino Linotype";
+    color: darkgray;
+    font-size: 25px;
+}
+
+
+h1 {
+    color: dimgray;
+    font-size: 30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+.section-header {
+    color: slategrey;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#most-favorite-food {
+    font-weight: bold;
+    color: rebeccapurple;
+}
+
+
+#page-title {
+    color: black;
+    background-color: mediumpurple;
+    font-size: 40px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#favorite-tv-series-title {
+    font-style: italic;
+    color: rebeccapurple;
+}
+
+#favorite-music-name {
+    font-weight: bold;
+    color: rebeccapurple;
+}
+
+.favorite-section {
+    border: 3px dimgrey ridge;
+    margin: 10px;
+    padding: 10px;
+}
+
+.favorite-image {
+    border-radius: 10px;
+}
+
+table, tr, th, td {
+    border: 1px gray solid;
+    border-collapse: collapse;
+}
+
+
+th {
+    color: rebeccapurple;
+}
+
+td {
+    color: mediumpurple;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
